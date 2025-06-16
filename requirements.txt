@@ -1,0 +1,7 @@
+anthropic>=0.54.0
+mcp>=0.9.0
+asyncio
+pathlib
+typing
+dataclasses
+json5
